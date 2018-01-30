@@ -1,4 +1,4 @@
-# json-creator
+# json-creator created by Alex and Jenny
 generation json files
 
 open cmd
